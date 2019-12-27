@@ -13,11 +13,9 @@
 > Summary description here.
 
 
-This file will become your README and also the index of your documentation.
+README file generated from index.pynb
 
-## Install
-
-`pip install ai_pytorch`
+Documentation is here: https://kasparlund.github.io/ai_pytorch/
 
 ## How to use
 
